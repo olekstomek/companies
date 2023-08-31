@@ -1,6 +1,6 @@
 ---
 title: Companies
-date: "2022-04-08"
+date: "2022-11-11"
 description: List of companies that use GitHub
 author: Daniel Schildt
 language: en
@@ -89,8 +89,9 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [IBM Watson](https://github.com/IBM-Watson) | Java, HTML, CSS, Ruby, JavaScript, XML, Markdown, Clojure, Python, Java |
 | [IBM](https://github.com/IBM) | C, C#, C++, COBOL, CoffeeScript, CSS, CSS, Dockerfile, Emacs Lisp, Go, Groovy, HCL, HTML, Java, JavaScript, Julia, Jupyter Notebook, NGINX, OCaml, Perl, PHP, Python, R, Roff, Ruby, Scala, Shell, Smarty, SQL PL, Swift, TypeScript |
 | [Idean](https://github.com/ideanux) | JavaScript, Objective-C |
-| [Integrify Ltd](https://github.com/Integrify-Finland) | HCL |
+| [Integrify Ltd](https://github.com/Integrify-Finland) |  JavaScript, HTML, TypeScript, Jupyter Notebook, CSS |
 | [Ionic](https://github.com/ionic-team) | C++, CSS, Go, HTML, Java, JavaScript, Objective-C, PHP, Python, Ruby, Shell, TypeScript, Vue |
+| [JetBrains](https://github.com/JetBrains) | Java, Kotlin, C#, JavaScript, C++ |
 | [JGraph Ltd](https://github.com/jgraph) | HTML, Java, JavaScript, PHP, Shell, XSLT |
 | [Juniper Networks](https://github.com/Juniper) | C, C++, CSS, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT |
 | [Known, Inc.](https://github.com/idno) | HTML, JavaScript, PHP, Shell |
@@ -128,7 +129,7 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Mozilla Raptor / Firefox OS Performance](https://github.com/mozilla-raptor) | HTML, JavaScript, Python, Shell |
 | [Mozilla Release Engineering](https://github.com/mozilla-releng) | CSS, JavaScript, PowerShell, Python, Ruby, Shell |
 | [Mozilla Science Lab](https://github.com/MozillaScience) | CSS, HTML, JavaScript, Python, Ruby, Rust, Shell |
-| [Mozilla Searchfox](https://github.com/mozsearch) | C++, Rust, Shell |
+| [Mozilla Searchfox](https://github.com/mozsearch) | Rust, JavaScript, Shell, Starlark |
 | [Mozilla Security](https://github.com/MozillaSecurity) | C++, HTML, JavaScript, PowerShell, Python, Shell |
 | [Mozilla Services](https://github.com/mozilla-services) | C, C++, CSS, Dockerfile, Elm, FreeMarker, Go, HTML, Java, JavaScript, Lua, Makefile, NGINX, PHP, Puppet, Python, Roff, Ruby, Rust, Shell, XSLT |
 | [Mozilla Servo](https://github.com/servo) | C, C++, CSS, HCL, HTML, JavaScript, Python, Ruby, Rust, Shell |
@@ -173,7 +174,6 @@ If you notice a notable company in GitHub with something interesting in their pu
 | [Telia OSS](https://github.com/telia-oss) | C#, Dockerfile, Go, HCL, JavaScript, Makefile, Python, Shell |
 | [Telia Sweden](https://github.com/teliasweden) | Go, HTML, JavaScript, Smarty, TypeScript |
 | [Telia](https://github.com/telia) | (no public repositories) |
-| [TeliaSonera](https://github.com/teliasonera) | HTML |
 | [The Atlantic](https://github.com/theatlantic) | Python, JavaScript, C++, CSS, HTML, Shell, ActionScript, R, TypeScript, Java, Go, Puppet, PHP |
 | [Tieto Healthcare & Welfare Oy (Lifecare API Services)](https://github.com/TietoLifecare) | C# |
 | [Toggl](https://github.com/toggl) | CoffeeScript, Go, JavaScript, Kotlin, Objective-C, Perl, Ruby, Shell, TypeScript |
